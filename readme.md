@@ -4,6 +4,8 @@ A real-time Air Quality Index (AQI) monitoring and forecasting web application f
 
 ## Features
 
+### Live Demo:https://air-quality-analysis-olnmtutzp5vszazg8t8xny.streamlit.app/
+
 ### Real-Time AQI Monitoring
 - Live air quality data for any city in India
 - Comprehensive pollutant tracking (PM2.5, PM10, NO₂, O₃, CO, SO₂)
